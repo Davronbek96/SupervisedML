@@ -1,0 +1,9 @@
+
+path: '/content/drive/MyDrive/data (1)' # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train  # val images (relative to 'path')
+
+# Classes
+names:
+  0: apple
+  1: banana
